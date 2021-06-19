@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z50jqIFdABAMOP799AubRk2/shfDmitF0Q37d7evulyjE5RKKWuz0a9tAC3qFDZD2fO18Rki4Vrel2pAIFX2wQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josho\\source\\repos\\ProyectoCircuitos\\ProyectoCircuitos\\ProyectoCircuitos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josho\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.17.0\\microsoft.cognitiveservices.speech.1.17.0.nupkg.sha512",
+    "C:\\Users\\josho\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\josho\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\josho\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512",
+    "C:\\Users\\josho\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\josho\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\josho\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

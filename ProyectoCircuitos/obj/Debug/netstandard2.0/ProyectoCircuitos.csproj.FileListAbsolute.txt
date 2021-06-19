@@ -1,0 +1,14 @@
+C:\Users\josho\source\repos\ProyectoCircuitos\ProyectoCircuitos\bin\Debug\netstandard2.0\ProyectoCircuitos.deps.json
+C:\Users\josho\source\repos\ProyectoCircuitos\ProyectoCircuitos\bin\Debug\netstandard2.0\ProyectoCircuitos.dll
+C:\Users\josho\source\repos\ProyectoCircuitos\ProyectoCircuitos\bin\Debug\netstandard2.0\ref\ProyectoCircuitos.dll
+C:\Users\josho\source\repos\ProyectoCircuitos\ProyectoCircuitos\bin\Debug\netstandard2.0\ProyectoCircuitos.pdb
+C:\Users\josho\source\repos\ProyectoCircuitos\ProyectoCircuitos\obj\Debug\netstandard2.0\ProyectoCircuitos.csprojAssemblyReference.cache
+C:\Users\josho\source\repos\ProyectoCircuitos\ProyectoCircuitos\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\josho\source\repos\ProyectoCircuitos\ProyectoCircuitos\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\josho\source\repos\ProyectoCircuitos\ProyectoCircuitos\obj\Debug\netstandard2.0\ProyectoCircuitos.AssemblyInfoInputs.cache
+C:\Users\josho\source\repos\ProyectoCircuitos\ProyectoCircuitos\obj\Debug\netstandard2.0\ProyectoCircuitos.AssemblyInfo.cs
+C:\Users\josho\source\repos\ProyectoCircuitos\ProyectoCircuitos\obj\Debug\netstandard2.0\ProyectoCircuitos.csproj.CoreCompileInputs.cache
+C:\Users\josho\source\repos\ProyectoCircuitos\ProyectoCircuitos\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\josho\source\repos\ProyectoCircuitos\ProyectoCircuitos\obj\Debug\netstandard2.0\ProyectoCircuitos.dll
+C:\Users\josho\source\repos\ProyectoCircuitos\ProyectoCircuitos\obj\Debug\netstandard2.0\ref\ProyectoCircuitos.dll
+C:\Users\josho\source\repos\ProyectoCircuitos\ProyectoCircuitos\obj\Debug\netstandard2.0\ProyectoCircuitos.pdb

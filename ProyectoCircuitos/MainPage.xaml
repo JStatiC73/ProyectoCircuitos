@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:viewModel="clr-namespace:ProyectoCircuitos.ViewModels"
+             x:Class="ProyectoCircuitos.MainPage">
+
+    <ContentPage.BindingContext>
+        <viewModel:TestModel/>
+    </ContentPage.BindingContext>
+    <StackLayout>
+        <Button Text="Encender Luces de la Sala" Command="{Binding LucesSalaCommand}" HorizontalOptions="FillAndExpand">
+            <Button.Triggers>
+                <DataTrigger TargetType="Button" Binding="{Binding AreaSala.Iluminado}" Value="true">
+                    <Setter Property="Text" Value="Apagar Luces de la Sala"/>
+                </DataTrigger>
+            </Button.Triggers>
+        </Button>
+        <Button Text="Encender Luces de la Cocina" Command="{Binding LucesCocinaCommand}" HorizontalOptions="FillAndExpand">
+            <Button.Triggers>
+                <DataTrigger TargetType="Button" Binding="{Binding AreaCocina.Iluminado}" Value="true">
+                    <Setter Property="Text" Value="Apagar Luces de la Cocina"/>
+                </DataTrigger>
+            </Button.Triggers>
+        </Button>
+        <Button Text="Encender Luces del Corredor" Command="{Binding LucesCorredorCommand}" HorizontalOptions="FillAndExpand">
+            <Button.Triggers>
+                <DataTrigger TargetType="Button" Binding="{Binding AreaCorredor.Iluminado}" Value="true">
+                    <Setter Property="Text" Value="Apagar Luces del Corredor"/>
+                </DataTrigger>
+            </Button.Triggers>
+        </Button>
+        <Button Text="Encender Todas las Luces" Command="{Binding TodasLucesCommand}" HorizontalOptions="FillAndExpand">
+            <Button.Triggers>
+                <DataTrigger TargetType="Button" Binding="{Binding TodasAreas.Iluminado}" Value="true">
+                    <Setter Property="Text" Value="Apagar todas las luces"/>
+                </DataTrigger>
+            </Button.Triggers>
+        </Button>
+        <Button Text="Control por Voz" Command="{Binding VozCommand}" HorizontalOptions="FillAndExpand"/>
+        <ActivityIndicator IsRunning="{Binding IsTranscribing}" />
+    </StackLayout>
+
+</ContentPage>
